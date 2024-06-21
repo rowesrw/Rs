@@ -16,6 +16,6 @@ async def start_bot():
     print("[INFO]: STARTING BOT CLIENT")
     await bot.start()
     A_q_lp = "A_q_lp"
-    await bot.send_message(A_q_lp, "**    . **")
+    await bot.send_message(A_q_lp, "**تم تننصيب الصانع بنجاح**")
     print("[INFO]:   ")
     await idle()
