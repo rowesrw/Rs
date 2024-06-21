@@ -72,27 +72,15 @@ async def auto_bot():
         except:
            pass
         try:
-          await user.join_chat("S_a_i_d_i")
+          await user.join_chat("RQ_SF")
         except:
           pass
         try:
-          await user.join_chat("TeamSEMO")
+          await user.join_chat("R3_QX")
         except:
           pass
         try:
-          await user.join_chat("SEMOMusic")
-        except:
-          pass
-        try:
-          await user.join_chat("Dev_Mostafa")
-        except:
-          pass
-        try:
-          await user.join_chat("BarCinder")
-        except:
-          pass
-        try:
-          await user.join_chat("CH_SEMO")
+          await user.join_chat("R7_QX")
         except:
           pass
       except Exception as e:
